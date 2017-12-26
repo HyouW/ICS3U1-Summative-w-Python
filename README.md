@@ -12,3 +12,9 @@ Knights and Rogues is a two player, Snakes and Ladders-esque game with the end g
 8. If the player rolls more than the amount they need to reach the top, they back track the extra amount
 9. A player wins when they reach the top of the castle
 10. Points are calculated based on the number of turns it took to reach the top and the difference in positions between the winner and loser (for high score purposes)
+
+## How to Run the Game
+1. Download the game
+```
+git clone https://github.com/HyouW/ICS3U1-Summative-w-Python.git
+```
