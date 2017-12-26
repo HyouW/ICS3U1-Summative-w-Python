@@ -14,7 +14,9 @@ Knights and Rogues is a two player, Snakes and Ladders-esque game with the end g
 10. Points are calculated based on the number of turns it took to reach the top and the difference in positions between the winner and loser (for high score purposes)
 
 ## How to Run the Game
+Need Python 3.4.0 and IDLE IDE
 1. Download the game
 ```
 git clone https://github.com/HyouW/ICS3U1-Summative-w-Python.git
 ```
+2. Edit `Main.py` with IDLE and click Run -> Run Module
